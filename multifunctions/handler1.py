@@ -1,9 +1,9 @@
 import json
 
 
-def function1(event, context):
+def function2(event, context):
     body = {
-        "message": "This is function1",
+        "message": "This is function2",
         "input": event
     }
 
